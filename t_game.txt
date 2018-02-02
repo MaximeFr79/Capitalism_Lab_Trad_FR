@@ -70,7 +70,7 @@
 [0325]<GOAL>OBJECTIF|
 [0326]<CITY>Nombre de Villes|
 [0327]<SCAP>Votre Capital de départ|
-[0329]<ALLS>Stock Market|
+[0329]<ALLS>Bourse|
 [0341]<NCOM>Nombre de Concurrents|
 [0342]<CCAP>Capital de départ des Concurrents|
 [0343]<CAGG>Agressivité des Concurrents|
@@ -116,9 +116,9 @@
 [0547]<AII2>Grand strategy plan|
 [0548]<AII3> building farm input failed.|
 [0549]<AII4> building factory input failed.|
-[0551]<FHQ1>Acquire Technology From Other Companies|
+[0551]<FHQ1>Acquérir une technologie d'une autre société|
 [0552]<FHQ2>You cannot acquire new technology now. None of the other companies have a technology more advanced than yours.|
-[0553]<FIN1>Switch Brand Strategy|
+[0553]<FIN1>Changer de Stratégie de Marque|
 [0554]<FIN2>When you switch your brand strategy, all products will be labeled with the new brand and their brand ratings will be reset to zero as a result. Proceed?|
 [0555]<FIN3>Employment Termination|
 [0556]<FIN4>Employment rejected|
@@ -139,14 +139,14 @@
 [0574]<NGO2>Cannot purchase the firm|
 [0575]<NGO3>Cannot purchase the technology|
 [0576]<PR31>Salary Raise Request|
-[0577]<PLB1>Layout Plan|
+[0577]<PLB1>Pla, d'Implantation|
 [0578]<PLB2>The highlighted firm doesn't have a layout.|
 [0579]<PLB3>The firm type of the current plan is different from that of the highlighted firm.|
 [0580]<SK21>Stock Exchange News|
 [0581]<SK51>Tender Offer|
-[0582]<SYD1>CHEAT ENABLE|
-[0583]<SYF1>Save Game|
-[0584]<AIG0>Diversified|
+[0582]<SYD1>TRICHE ACTIVEE|
+[0583]<SYF1>Sauvegarder la Partie|
+[0584]<AIG0>Diversifié|
 [0585]<AIG1>Retail Focused|
 [0586]<AIG2>Stock Focused|
 [0587]<AIG3>Real Estate Focused|
@@ -195,9 +195,9 @@
 [0645]<FAT9>You bought this Apartment at|
 [0646]<FA10>Land and Building Cost|
 [0647]<FA11>Valeur Marchande|
-[0648]<FA12>Profit Graph|
+[0648]<FA12>Graphique de bénéfiche|
 [0649]<FA13>12 derniers mois|
-[0650]<FA14>Occupancy graph|
+[0650]<FA14>Graphique de taux d'occupation|
 [0651]<FA15>Put this apartment on sale|
 [0652]<FA16>Acheter cet appartement|
 [0653]<FA17>Faire une offre maintenant|
@@ -210,11 +210,11 @@
 [0664]<FR03>Salaries Expense|
 [0665]<FR04>Factory Overhead|
 [0666]<FR05>Advertising & PR Expense|
-[0667]<FR06>Training|
+[0667]<FR06>Formation|
 [0668]<FR07>Write-offs|
 [0669]<FR10>Salaries Expense|
 [0670]<FR11>Operating Overhead|
-[0671]<FR12>Training|
+[0671]<FR12>Formation|
 [0672]<FR13>Pertes|
 [0673]<FR20>Revenu des Ventes|
 [0674]<FR21>Dépense des Salaires|
@@ -235,16 +235,16 @@
 [0689]<FR44>Advertising & PR Expense|
 [0690]<FR45>Training|
 [0691]<FR46>Write-offs|
-[0703]<FBK2>Total Loan|
-[0704]<FBK3>Monthly Interest|
-[0705]<FBK4>Credit Limit|
-[0706]<FBK5>Interest Rate|
-[0707]<FBK6>Borrow|
-[0708]<FBK7>Repay|
+[0703]<FBK2>Total du Crédit|
+[0704]<FBK3>Interets Mensuels|
+[0705]<FBK4>Limite du créditt|
+[0706]<FBK5>Taux d'interet|
+[0707]<FBK6>Emprunter|
+[0708]<FBK7>Rembourser|
 [0715]<FET1>Building Types|
 [0716]<FET2>Selectionner|
 [0717]<FET3>Setup:|
-[0718]<FET4>Monthly:|
+[0718]<FET4>Mensuellement:|
 [0719]<FET5>Please select a location|
 [0721]<FET7>Cout du Terrain: |
 [0722]<FET8>The location is occupied by residential|
@@ -282,7 +282,7 @@
 [0758]<FA19>Revenus de l'Entreprise|
 [0759]<FA20>Firm Revenue|
 [0761]<FA22>Magasins de détail.|
-[0763]<FHQ1>Finance Department|
+[0763]<FHQ1>Département Financier|
 [0764]<FHQ2>Human Resources Department|
 [0765]<FHQ3>Public Relations Department|
 [0766]<FHQ4>Investor Relations Department|
@@ -292,7 +292,7 @@
 [0770]<FHQ8>Chief Technical Officer's Office|
 [0771]<FHQ9>Aquérir des technologies par d'autres Sociétés|
 [0772]<FH10>Set New Dividend|
-[0773]<FH11>FINANCE DEPARTMENT|
+[0773]<FH11>DEPARTEMENT FINANCIER|
 [0774]<FH12>Current Dividend Payout Ratio:|
 [0775]<FH13>New Dividend Payout Ratio:|
 [0776]<FH14>Organize an Intensive Training Program|

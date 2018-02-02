@@ -23,20 +23,20 @@ Retourner sur la précédente entreprise (raccourcis: q)
 Retourner sur la précédente entreprise séléctionnée
 ~
 B_CASH
-Your Corporation's Cash
-This figure is the amount of cash your corporation currently has. 
+L'argent de votre Société
+Ce chiffre montre la quantité d'argent que votre Société a actuellement
 ~
 B_PROFIT
-Your Corporation's Operating Profit
-This figure is your corporation's operating profit over the past 12 months. 
+Votre Bénéfice d'Exploitation
+Ce chiffre est le Bénéfice d'Exploitation de votre Société au cours des 12 derniers mois. 
 ~
 B_CHART
-Your Corporation's Monthly Profit & Loss Chart 
-Vertical bars represent your corporation's monthly profit or loss. A red bar indicates a loss; a green bar indicates a profit.
+Le graphique des Bénéfices et Pertes mensuelles de votre Société 
+Les barres verticuales représentes les bénéfices et pertes mensuelles de votre société. Une barre rouge indique une perte; une barre verte indique un profit.
 ~
 B_DATE
-Current Date
-This is the current game date
+La Date courante
+C'est la Date courant de la partie
 ~
 T_BUILD
 Menu de Construction (raccourcis: B)
@@ -78,24 +78,24 @@ MMENUFR
 Firm Summary Report (hotkey: 'F')
 Click to open the Firm Summary Report
 ~
-MMENUHQ (hotkey: 'H')
-Headquarters
+MMENUHQ (raccourci: 'H')
+Siège Social
 `
 ~
 MMENUSM
-Stock Market
-Open the Stock Market screen
+Bourse
+Ouvre l'écran de Bourse
 ~
 MMENUGM
-Game Menu (hotkey: ESC)
-Save, Load, Retire, return to main menu or return to Windows.
+Menu de la Partie (raccourci: ESC)
+Sauvegarder, Charger, prendre sa Retraite, retourner au Menu Principal ou retourner sous Windows.
 ~
 MMENUOM
-Options Menu (hotkey: 'O')
-Display the game options menu.
+Menu Option (raccourci: 'O')
+Afficher le Menu Option de la partie.
 ~
 MMENUSP
-Vitesse du Jeu (hotkey: '1' to '5')
+Vitesse du Jeu (raccourcis: '1' to '5')
 Cliquez sur le cadran de vitesse pour modifier la vitesse de jeu
 ~
 OM_NEWS
@@ -215,12 +215,12 @@ Enable the enhanced hotkey system.
 `
 ~
 MMAPPT
-Previous City (hotkey: '[')
-Click to display previous city
+Ville Précédente (raccourci: '[')
+Cliquez pour afficher la Ville Précédente
 ~
 MMAPNT
-Next City (hotkey: ']')
-Click to display next city
+Ville Suivante (raccourci: ']')
+Cliquez pour afficher la Ville Suivante
 ~
 MMAPCM
 Fermer la Mini Carte
@@ -427,24 +427,24 @@ Left-click to decrease. (hotkey: '-' )
 Right-click to decrease at a higher rate.
 ~
 IN_SM_BI
-Buy more stock
+Acheter d'avantage d'actions
 `
 ~
 IN_SM_BD
-Buy less stock
+Acheter moins d'actions
 `
 ~
 IN_SM_SI
-Sell more stock
+Vendre plus d'actions
 `
 ~
 IN_SM_SD
-Sell less stock
+Vendre moins d'actions
 `
 ~
 IN_SM_S
-Sell Stock
-Click to sell the displayed stock
+Vendre Actions
+Cliquez pour vendre les actions affichées
 ~
 IN_SM_SX
 Sell Stock

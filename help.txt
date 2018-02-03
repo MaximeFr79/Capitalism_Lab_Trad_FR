@@ -267,16 +267,16 @@ Population and Pollution Mode
 Population density is shown in dark brown colors. Pollution is shown in orange and red colors: Red indicates pollution in populated areas; Orange indicates pollution in unpopulated or very sparsely populated areas.  
 ~
 MMAPMM_S
-Soil Map Mode
+Mode de Carte du Sol
 `
 ~
 MMAPMMI
-Firm Information Display Mode
-Click to toggle Firm Information Display Mode - firm type will be displayed in the main city view
+Affichage du mode d'information des entreprises
+Cliquez pour basculer vers le mode d'information des entreprises - les types d'entreprises s'affichent dans la vue principale de la ville
 ~
 MMAPAC
-Apartments and Commercial Buildings Display 
-Click to toggle the display of apartments and commercial buildings.
+Les appartements et batîments commerciaux s'affichent
+Cliquez pour basculer vers l'affichage des appartements et batîments commerciaux.
 ~
 SFM_K1
 Filtre Customisable
@@ -387,32 +387,32 @@ More products using this input material
 Display more products using this input material
 ~
 IN_MG_FP
-Terminate Employment
-Click to terminate employment
+Interrompre le recrutement
+Cliquez pour interrompre le recrutement
 ~
 IN_MG_HP
-Hire Chief Operating Officer
-Click to hire Chief Operating Officer
+Elbaucher un Directeur de l'Exploitation
+Cliquez pour Embaucher un Directeur de l'Exploitation
 ~
 IN_MG_HM
-Hire Chief Marketing Officer
-Click to hire Chief Marketing Officer
+Embaucher un Directeur Marketing
+Cliquez pour embaucher un Directeur Marketing
 ~
 IN_MG_HT
-Hire Chief Technical Officer
-Click to hire Chief Technical Officer
+Embaucher un Directeur Technique
+Cliquez pour embaucher un Directeur Technique
 ~
 IN_SM_M
-Merge Corporations
-Click to merge corporations
+Fusions de Sociétés
+Cliquez pour fusionner les Sociétés
 ~
 IN_SM_O
-Make a Tender Offer
+Faire une Offre Public d'Achat
 Make a tender offer to the selected shareholder of the current stock. 
 ~
 IN_SM_B
-Buy Stock
-Click to buy the displayed stock 
+Acheter Actions
+Cliquez pour acheter les Actions affichées
 ~
 IN_SM_BX
 Buy Stock
@@ -627,7 +627,7 @@ Left-click to decrease. Right-click to decrease at a higher rate.
 `
 ~
 IFT_PC
-Confirm change to selling price
+Confirmer le changement de prix de vente
 `
 ~
 IFT_L
@@ -803,7 +803,7 @@ Hire a new Chief Technical Officer.
 When you click this button, it will go to the Person screen and let you select a person to offer to hire. 
 ~
 IFH_IRD
-Monthly Spending Adjustment
+Rajustement des dépenses mensuelles
 `
 ~
 IFH_PRD
@@ -819,7 +819,7 @@ Left-click to decrease. Right-click to decrease at a higher rate.
 `
 ~
 IFH_WAO
-Make Your Offer
+Faire votre offre
 `
 ~
 IFH_WAN
@@ -903,8 +903,8 @@ Product Market Share Indicator
 The red bar tells the your market share for this product in the current city.  
 ~
 IFT_PRB
-Product Rating Indicators 
-Orange bar = Brand rating. Green bar = Quality rating. Yellow bar = Price rating. The Product Overall rating is the sum total of these 3 ratings. 
+Indicateur de notation du produit
+Barre Orange = note de Marque. Barre Verte = note de Qualité. Barre jaune = note de prix. La notation totale du produit est la somme totale de ces 3 notes. 
 ~
 IFT_PRB2
 Product Rating Indicators

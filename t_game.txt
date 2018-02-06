@@ -169,7 +169,7 @@
 [0616]<DI11>TOTAL|
 [0617]<DI12>SELECTIONNER FOURNISSEUR|
 [0619]<DI14>Selectionner Emplacement de Construction|
-[0620]<DI15>Annuèler|
+[0620]<DI15>Annuler|
 [0621]<DI16>Ok|
 [0622]<DI17>LISTE CLIENTS|
 [0624]<DI19>SELECTIONNER MEDIA|
@@ -283,9 +283,9 @@
 [0759]<FA20>Firm Revenue|
 [0761]<FA22>Magasins de détail.|
 [0763]<FHQ1>Département Financier|
-[0764]<FHQ2>Human Resources Department|
-[0765]<FHQ3>Public Relations Department|
-[0766]<FHQ4>Investor Relations Department|
+[0764]<FHQ2>Département des Ressources Humaines|
+[0765]<FHQ3>Département des Relations Publiques|
+[0766]<FHQ4>Département des Relations avec les Investisseurs|
 [0767]<FHQ5>Chief Executive Officer's Office|
 [0768]<FHQ6>Chief Operating Officer's Office|
 [0769]<FHQ7>Chief Marketing Officer's Office|
@@ -342,20 +342,20 @@
 [0826]<0046>Chief Marketing Officer|
 [0828]<0048>Acquire Technology From Other Companies|
 [0829]<0049>CHIEF TECHNICAL OFFICER'S OFFICE|
-[0830]<0050>Stock Price|
-[0832]<0052>Dividend Yield|
-[0837]<0057>Offer|
-[0845]<0060>Corporate|
-[0848]<0063>Product|
-[0849]<0064>Firm|
-[0850]<0065>Financial Report|
-[0855]<0070>Manufacturer's|
+[0830]<0050>Cours de l'Action|
+[0832]<0052>Rendement de l'Action|
+[0837]<0057>Offre|
+[0845]<0060>Société|
+[0848]<0063>Produit|
+[0849]<0064>Entreprise|
+[0850]<0065>Rapport Financier|
+[0855]<0070>Guide du Fabriquant|
 [0856]<0071>Guide|
-[0857]<0072>Farmer's Guide|
-[0858]<0073>Manager's Guide|
-[0860]<0075>Stock Exchange|
-[0861]<0076>Revenue Graph |
-[0862]<0077>Quantity Sold Graph |
+[0857]<0072>Guide de l'Agriculteur|
+[0858]<0073>Guide du Directeur|
+[0860]<0075>Bourse|
+[0861]<0076>Graphique des Revenus|
+[0862]<0077>Graphique des Quantités Vendus |
 [0863]<0078>Précédent|
 [0864]<0079>Duivant|
 [0865]<0080>Go|
@@ -504,22 +504,22 @@
 [1086]<0242>Assets Turnover|
 [1087]<0243>Equity-to-Assets Ratio|
 [1088]<0244>Researching new product|
-[1089]<0245>years|
-[1090]<0246>year|
-[1091]<0247>units|
-[1092]<0248>unit|
-[1093]<0249>Public Shareholders|
+[1089]<0245>années|
+[1090]<0246>année|
+[1091]<0247>unitées|
+[1092]<0248>unitée|
+[1093]<0249>Actionnaires Public|
 [1094]<0250>total|
-[1095]<0251>Annual Profit|
-[1096]<0252>Stock Price|
-[1099]<0255>P/E Ratio|
-[1100]<0256>Dividend Yield|
+[1095]<0251>Bénéfice Annuel|
+[1096]<0252>Cours de l'Action|
+[1099]<0255>Ratio Cours-Bénéfice|
+[1100]<0256>Rendement d'une Action|
 [1102]<0257>Annual Return|
-[1104]<0259>Merger|
-[1105]<0260>Buy|
-[1106]<0261>Sell|
-[1107]<0262>Price    P/E    Owned%  Stock Value|
-[1108]<0263>Stock Price|
+[1104]<0259>Fusion|
+[1105]<0260>Acheter|
+[1106]<0261>Vendre|
+[1107]<0262>Prix    Ratio Cours-Bénéfice    En possesion%  Valeur de l'Action|
+[1108]<0263>Cours de l'Action|
 [1109]<0264>Total Shares|
 [1110]<0265>Equity Per Share|
 [1111]<0266>Earnings Per Share|

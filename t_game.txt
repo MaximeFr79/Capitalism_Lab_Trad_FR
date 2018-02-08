@@ -1172,29 +1172,29 @@
 [2284]<1204>Issue Shares|
 [2285]<1205>I pay this much.|
 [2286]<1206>Accept resignation|
-[2287]<1207>Offer a salary raise|
+[2287]<1207>Offre d'augmentation de Salaire|
 [2288]<1208>Accept Resignation|
 [2289]<1209>Offer this much|
 [2290]<1210>I want to sell this firm for |
 [2291]<1211>I want to sell this firm. How much can you pay ?|
-[2292]<1212>I would like to buy this firm for |
-[2293]<1213>OK, I agree to sell this firm for |
+[2292]<1212>Je voudrais acheter cette entreprise pour |
+[2293]<1213>OK, J'accepte de vendre cette entreprise pour |
 [2294]<1214>The Securities and Exchange Commission does not approve your purchase. \nYou cannot use a corporation that you control to buy a stock in which you personally have ownership.|
 [2295]<1215>The Securities and Exchange Commission does not approve your purchase. \nYou cannot use a corporation that you control to buy a stock in which your corporation or its subsidiary has ownership.|
 [2296]<1216>The Securities and Exchange Commission does not approve your purchase. \nYou cannot buy a stock in which your corporation or its subsidiary has ownership.|
-[2297]<1217>I don't want to sell my firm at this price to you.|
+[2297]<1217>Je ne veux pas vous vendre mon entreprise à ce prix.|
 [2298]<1218>I don't want to sell my stock to you.|
-[2299]<1219>I reject your offer and demand |
+[2299]<1219>Je rejette votre offre et demande |
 [2300]<1220> per share. \nWill you accept this offer?|
-[2301]<1221>( Total payment: |
+[2301]<1221>( Versement total: |
 [2302]<1222>You don't have enough cash to purchase my stock.|
 [2303]<1223>How would you prefer to acquire the remaining shares of |
 [2304]<1224>1) By paying |
-[2305]<1225>) cash|
+[2305]<1225>) argent|
 [2306]<1226>2) By issuing |
 [2307]<1227> new shares of |
 [2308]<1228> in exchange with |
-[2309]<1229> shares|
+[2309]<1229> actions|
 [2310]<1230> offers you |
 [2311]<1231> per share for buying |
 [2312]<1232>back |
@@ -1259,68 +1259,68 @@
 [2372]<1292>How much can you offer?|
 [2373]<1293>I want to sell this technology for |
 [2374]<1294>I would like to buy this technology for |
-[2375]<1295>, CEO, |
-[2377]<1297>LOG|
-[2378]<1298>PREVIOUS|
-[2379]<1299>NEXT|
-[2380]<1300>CLOSE|
-[2381]<1301>Invented|
+[2375]<1295>, Directeur Général, |
+[2377]<1297>JOURNAL|
+[2378]<1298>PRECEDENT|
+[2379]<1299>SUIVANT|
+[2380]<1300>FERMER|
+[2381]<1301>inventé|
 [2382]<1302>Known to You|
-[2383]<AT00>DISABLED|
-[2384]<AT01>ENABLED|
+[2383]<AT00>DESACTIVER|
+[2384]<AT01>ACTIVER|
 [2385]<AU00>OFF|
 [2386]<AU01>ON|
-[2387]<AV00>NONE|
+[2387]<AV00>AUCUN|
 [2388]<AV01>BRIEF|
 [2389]<AV02>DETAILED|
 [2390]<1303>Game Options|
 [2392]<1305>DEFAULT INTERNAL SALE|
 [2393]<1306>DEFAULT AUTO LINK SUPPLIER|
 [2394]<1307>CONSIDER TENDER OFFER|
-[2395]<1308>MUSIC|
-[2396]<1309>SOUND EFFECTS|
+[2395]<1308>MUSIQUE|
+[2396]<1309>BRUITAGES|
 [2397]<1310>CONTEXT SENSITIVE HELP|
-[2398]<1311>AUTO SAVE|
+[2398]<1311>SAUVEGARDE AUTOMATIQUE|
 [2400]<1313>YOU HAVE RUN OUT OF CASH!!|
 [2401]<1314>WHAT WOULD YOU LIKE TO DO ?|
 [2402]<1315>If you do not respond in |
 [2403]<1316> seconds, you will be forced to declare bankruptcy.|
-[2404]<1317>CASH|
-[2405]<1318>NET WORTH|
+[2404]<1317>ARGENT|
+[2405]<1318>VALEUR NETTE|
 [2406]<1319>BORROW MONEY FROM BANK|
-[2407]<1320>SELL STOCK|
-[2408]<1321>DECLARE BANKRUPTCY|
+[2407]<1320>VENDRE ACTION|
+[2408]<1321>DECLARER FAILLITE|
 [2409]<1322>ISSUE NEW SHARES|
 [2410]<1323>CLOSE DOWN FIRMS|
-[2411]<1324>BANKRUPTCY|
-[2412]<1325>Cash|
-[2413]<1326>Sale of Land|
-[2414]<1327>Sale of Stock|
-[2415]<1328>Bank Loan Repayment|
-[2416]<1329>Cash|
+[2411]<1324>FAILLITE|
+[2412]<1325>Argent|
+[2413]<1326>Vente de terrain|
+[2414]<1327>Vente d'action|
+[2415]<1328>Remboursement prêt bancaire|
+[2416]<1329>Argent|
 [2417]<1330>Payment Per Share|
 [2435]<AU00>Conservative|
 [2436]<AU01>Moderate|
 [2437]<AU02>Aggressive|
 [2438]<AU03>Very Aggressive|
 [2439]<AU04>Human Player|
-[2440]<AV00>CEO|
-[2441]<AV01>Chairman|
-[2442]<AV02>CEO & Chairman|
-[2443]<AV03>COO|
+[2440]<AV00>Directeur Général|
+[2441]<AV01>Président|
+[2442]<AV02>Président-Directeur Général|
+[2443]<AV03>Directeur de l'Exploitation|
 [2444]<AV04>COO & Chairman|
-[2445]<AV05>CMO|
+[2445]<AV05>Directeur Marketing|
 [2446]<AV06>CMO & Chairman|
-[2447]<AV07>CTO|
+[2447]<AV07>Directeur Tecnique|
 [2448]<AV08>CTO & Chairman|
-[2449]<AW00>Chief Executive Officer|
-[2450]<AW01>Chairman|
+[2449]<AW00>Directeur Général|
+[2450]<AW01>Président|
 [2451]<AW02>Chief Executive Officer & Chairman|
-[2452]<AW03>Chief Operating Officer|
+[2452]<AW03>Directeur de l'Exploitation|
 [2453]<AW04>Chief Operating Officer & Chairman|
-[2454]<AW05>Chief Marketing Officer|
+[2454]<AW05>Directeur Marketing|
 [2455]<AW06>Chief Marketing Officer & Chairman|
-[2456]<AW07>Chief Technical Officer|
+[2456]<AW07>Directeur Technique|
 [2457]<AW08>Chief Technical Officer & Chairman|
 [2458]<1348>Independent Investor|
 [2459]<1349>Independent Investor|
@@ -1338,8 +1338,8 @@
 [2472]<1362>President of |
 [2473]<1363>C.E.O. of |
 [2474]<1364>, is |
-[2475]<1365> (weekly salary) x |
-[2476]<1366> (years of service)|
+[2475]<1365> (salaire hebdomadaire) x |
+[2476]<1366> (années de service)|
 [2477]<1367>Do you want to proceed?|
 [2478]<1368>Which job you want to offer ?|
 [2479]<1369>Offer|

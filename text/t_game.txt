@@ -117,9 +117,9 @@
 [0548]<AII3> building farm input failed.|
 [0549]<AII4> building factory input failed.|
 [0551]<FHQ1>Acquire Technology From Other Companies|
-[0552]<FHQ2>You cannot acquire new technology now. None of the other companies have a technology more advanced than yours.|
-[0553]<FIN1>Switch Brand Strategy|
-[0554]<FIN2>When you switch your brand strategy, all products will be labeled with the new brand and their brand ratings will be reset to zero as a result. Proceed?|
+[0552]<FHQ2>Vous ne pouvez pas acquérir une nouvelle technologie maintenant. Aucune autre compagnie n'a une technologie plus avancée que la votre.|
+[0553]<FIN1>Changer de stratégie de marque|
+[0554]<FIN2>Quand vous changez la stratégie de marque, tous vos produits sont étiquetés dans une nouvelle marque and their image de marque est remis à zéro. Procéder?|
 [0555]<FIN3>Employment Termination|
 [0556]<FIN4>Employment rejected|
 [0557]<FIN5>Employment|
@@ -132,9 +132,9 @@
 [0567]<GAM1>GOAL|
 [0568]<GME1>Lost Ownership|
 [0569]<GP21>Stock Exchange News|
-[0570]<JMF1>Upgrade Production Technology|
-[0571]<JMF2>Yes|
-[0572]<JMF3>No|
+[0570]<JMF1>Améliorer Technologie de Production|
+[0571]<JMF2>Oui|
+[0572]<JMF3>Non|
 [0573]<NGO1>Cannot purchase the mansion|
 [0574]<NGO2>Cannot purchase the firm|
 [0575]<NGO3>Cannot purchase the technology|
@@ -153,7 +153,7 @@
 [0588]<AIS0>Tout|
 [0589]<AIS1>Commerce de détail|
 [0590]<AIS2>Stock|
-[0591]<AIS3>Real Estate|
+[0591]<AIS3>Immobilier|
 [0592]<CET1>Sowing Month|
 [0593]<CET2>Harvesting Month|
 [0606]<DIJ1>Fournisseur|
@@ -278,18 +278,18 @@
 [0753]<FA14>Marque|
 [0754]<FA15>Qualité|
 [0755]<FA16>Prix|
-[0756]<FA17>Part d'Audiences|
+[0756]<FA17>Indice Global|
 [0758]<FA19>Revenus de l'Entreprise|
 [0759]<FA20>Firm Revenue|
 [0761]<FA22>Magasins de détail.|
-[0763]<FHQ1>Finance Department|
-[0764]<FHQ2>Human Resources Department|
-[0765]<FHQ3>Public Relations Department|
-[0766]<FHQ4>Investor Relations Department|
-[0767]<FHQ5>Chief Executive Officer's Office|
-[0768]<FHQ6>Chief Operating Officer's Office|
-[0769]<FHQ7>Chief Marketing Officer's Office|
-[0770]<FHQ8>Chief Technical Officer's Office|
+[0763]<FHQ1>Département Financier|
+[0764]<FHQ2>Département des Ressources Humaines|
+[0765]<FHQ3>Département des Relations Publiques|
+[0766]<FHQ4>Département des Relations avec les Investisseurs|
+[0767]<FHQ5>Bureau du Directeur Général|
+[0768]<FHQ6>Bureau du Président|
+[0769]<FHQ7>Bureau du Directeur Marketing|
+[0770]<FHQ8>Bureau du Directeur Tecnique|
 [0771]<FHQ9>Aquérir des technologies par d'autres Sociétés|
 [0772]<FH10>Set New Dividend|
 [0773]<FH11>FINANCE DEPARTMENT|
@@ -324,10 +324,10 @@
 [0807]<0027>Monthly spending on investor relations efforts|
 [0809]<0029>corporation's stock performance.|
 [0810]<0030>Detail|
-[0811]<0031>Chief Executive Officer's Office|
-[0812]<0032>Chief Executive Officer|
-[0813]<0033>Years of service|
-[0814]<0034>Retailing|
+[0811]<0031>Bureau du Directeur Général|
+[0812]<0032>Directeur Général|
+[0813]<0033>Années de Service|
+[0814]<0034>Commerce de Détail|
 [0815]<0035>Research and Development|
 [0816]<0036>Raw Material Production|
 [0817]<0037>Marketing|
